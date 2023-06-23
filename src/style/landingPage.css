@@ -1,0 +1,45 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/img/bg/layered-waves-haikei.svg");
+    background-size: cover;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px #4FACF7;
+}
+
+.software{
+    height: auto;
+    background: url("../assets/img/bg/blob-scene-haikei.svg");
+    background-size: cover;
+}
+
+.softwareWrapper{
+
+}
+
+.images{
+    height: 285px;
+}
+
+.softwareImg{
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+.hardware{
+    height: auto;
+    background: url("../assets/img/bg/circle-scatter-haikei.svg");
+    background-size: cover;
+}
